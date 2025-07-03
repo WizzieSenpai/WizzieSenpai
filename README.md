@@ -1,32 +1,13 @@
-## Hi there I'm Issra | Curiosity-Driven Creator 
-
+## Hi there I'm Issra 👩‍💻
 
 🎓 Medical Grad | 👩‍💻 ML Explorer | 🎨 Digital Artist  
 🎮 Game Dev & 🕸️ Web Enthusiast | 🧬 Bridging Science & Code
 
----
-
-🛠️ **What I'm Working On**  
-- ✍️ Building an interdisciplinary portfolio  
-- 🤖 Training tiny AI models with big ideas  
-- 🕹️ Designing games that teach (and delight)  
-- 🌐 Learning fullstack magic
-
----
-
-📦 **My Toolbelt**  
-`Python` · `JavaScript` · `Next.js` · `Unity` · `Figma` · `TensorFlow` · `Blender` · `CSS Witchcraft`
-
----
-
 🤝 **Let's Connect**  
 🧠 [LinkedIn](https://linkedin.com/in/issra-e)
 
----
 
 > “Creativity is intelligence having fun.” – *Albert Einstein*
-
-
 
 
 <!--
