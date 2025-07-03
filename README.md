@@ -1,5 +1,5 @@
-## Hi there 👋
-# 🧠 Issra | Curiosity-Driven Creator
+## Hi there I'm Issra | Curiosity-Driven Creator 
+
 
 🎓 Medical Grad | 👩‍💻 ML Explorer | 🎨 Digital Artist  
 🎮 Game Dev & 🕸️ Web Enthusiast | 🧬 Bridging Science & Code
